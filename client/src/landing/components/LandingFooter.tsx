@@ -4,7 +4,7 @@ export function LandingFooter() {
       <div className="container">
         <div className="flex flex-col items-start justify-between gap-8 md:flex-row md:items-center">
           <div className="flex items-center gap-3">
-            <img src="/manus-storage/ascend-logo-taskbar_74e6a21b.png" alt="Ascend" className="h-9 w-auto" />
+            <img src="/ascend-logo.png" alt="Ascend" className="h-9 w-auto" />
             <p className="text-[12px] text-white/35">
               © {new Date().getFullYear()} Ascend. Todos os direitos reservados.
             </p>

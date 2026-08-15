@@ -297,7 +297,7 @@ function Sidebar() {
       {/* Logo compacto */}
       <div className="mb-4 flex items-center gap-1.5 px-2">
         <img
-          src="/manus-storage/ascend-logo-taskbar_74e6a21b.png"
+          src="/ascend-logo.png"
           alt="Ascend"
           className="h-5 w-5 object-contain"
         />

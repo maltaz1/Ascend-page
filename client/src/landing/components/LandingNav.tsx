@@ -30,7 +30,7 @@ export function LandingNav() {
       <div className="container flex h-16 items-center justify-between">
         <a href="#top" className="flex items-center gap-2.5">
           <img
-            src="/manus-storage/ascend-logo-taskbar_74e6a21b.png"
+            src="/ascend-logo.png"
             alt="Ascend"
             className="h-10 w-auto"
           />

@@ -112,7 +112,7 @@ export function Problem() {
               viewport={{ once: true }}
               transition={{ delay: 0.7, duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
             >
-              <img src="/manus-storage/ascend-logo-taskbar_74e6a21b.png" alt="Ascend" className="h-12 w-auto" />
+              <img src="/ascend-logo.png" alt="Ascend" className="h-12 w-auto" />
               <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-violet-300">
                 Tudo em um
               </span>

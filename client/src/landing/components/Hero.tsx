@@ -145,7 +145,7 @@ export function Hero() {
             className="mb-5 flex justify-center"
           >
             <img
-              src="/manus-storage/ascend-logo-taskbar_74e6a21b.png"
+              src="/ascend-logo.png"
               alt="Ascend"
               className="h-14 w-auto sm:h-20"
             />
