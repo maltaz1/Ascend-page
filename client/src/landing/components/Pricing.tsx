@@ -15,7 +15,7 @@ const CAKTO_URL = "https://pay.cakto.com.br/35n9bs3_900728";
 type Row = { label: string; free: string; pro: string };
 
 const rows: Row[] = [
-  { label: "Tarefas por semana", free: "1", pro: "Ilimitadas" },
+  { label: "Tarefas por semana", free: "5", pro: "Ilimitadas" },
   { label: "Hábitos", free: "3", pro: "Ilimitados" },
   { label: "Metas de longo prazo", free: "1", pro: "Ilimitadas" },
   { label: "Metas semanais", free: "2", pro: "Ilimitadas" },
